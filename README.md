@@ -45,5 +45,5 @@ https://raw.githubusercontent.com/udacity/new-dand-advanced-china/master/%E6%95%
 4. Dog scores and Dog names are not always correct, and regular expressions are needed to extract the correct scores;
 5. Pd.merge is needed to merge some columns in this project;
 
-####### Visualize
-For more information, please refer to the document:**act_report.pdf**
+####### Visualization
+For more information, please refer to the document:**act_report.pdf**.
